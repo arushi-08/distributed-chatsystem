@@ -1,6 +1,4 @@
-# Chat Server p2 - Team 18
-
-## CS 2510: (Distributed) Computer Operating Systems
+## Distributed Chat System
 
 This project includes a group chat service that implements a server that is responsible for storing and delivering chats and a client program that enables users to participate in chat groups, exchange messages, and receive messages from other participants. Clients can connect to multiple servers and servers sync with each other.
 
